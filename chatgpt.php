@@ -9,7 +9,7 @@
 <section id="about">
   <div class="container">
     <h2>About Me</h2>
-    <p>Hi, I'm [Your Name], a web developer with [number] years of experience in developing responsive and user-friendly websites. I am skilled in HTML, CSS, and JavaScript, and have experience in using frameworks such as React and Angular.</p>
+    <p>Hi, I'm Yasin Arafat, a web developer with 00 years of experience in developing responsive and user-friendly websites. I am skilled in HTML, CSS, and JavaScript, and have experience in using frameworks such as React and Angular.</p>
     <p>I am passionate about creating websites that not only look great, but also provide a seamless user experience. Whether you need a simple brochure website or a complex web application, I can help you bring your ideas to life.</p>
   </div>
 </section>
